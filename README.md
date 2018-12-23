@@ -21,6 +21,4 @@ Prabhakaran, S. (2018, March). Topic Modeling with Gensim Retrieved from https:/
 
 Susan, Li. (2018, May 31). Topic Modeling and Latent Dirichlet Allocation (LDA) in Python Retrieved from https://towardsdatascience.com/topic-modeling-and-latent-dirichlet-allocation-in-python-9bf156893c24
 
-Thomas Davidson, Dana Warmsley, Michael Macy, & Ingmar Weber. (2017). "Automated Hate Speech Detection and the Problem of Offensive Language." ICWSM.
-
 Zhang, Ye, Wallace, & Byron. (2016, April 06). A Sensitivity Analysis of (and Practitioners' Guide to) Convolutional Neural Networks for Sentence Classification. Retrieved from https://arxiv.org/abs/1510.03820

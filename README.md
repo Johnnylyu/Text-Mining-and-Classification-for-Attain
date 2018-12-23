@@ -1,5 +1,5 @@
 # Text-Mining-and-Classification-for-Attain
-These are the projects for GWU Practicum with ATTAIN.
+These are the projects for GWU Practicum with Attain,LLC.
 Based on the given resume data,some topic modelling and text classification works are presented here.
 
 

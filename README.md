@@ -8,6 +8,7 @@ Part 1: The input here is the individual resumes provided from Attain. There are
 
 Part 2: With the categories of workforce being discovered in the first part. The next thing we did is implementing a classification model to the given resumes to select the right person for the job. We split the resumes from the Attain to three categories with regarding to their most recent job experience: Project Management, Business Intelligence and Software Development. The model was then trained to recognize resumes with an output of numerical indexes that could be compared to identify the most suitable resume and corresponding person for the job type we need.
 
+![](https://github.com/Johnnylyu/Text-Mining-and-Classification-for-Attain/blob/master/Resume%20Classification.png)
 
 ### References
 

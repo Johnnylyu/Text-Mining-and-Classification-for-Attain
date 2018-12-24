@@ -2,6 +2,12 @@
 These are the projects for GWU Practicum with Attain,LLC.
 Based on the given resume data,some topic modelling and text classification works are presented here.
 
+The resume mining project mainly focused on the topic of how to select the right person for different plans through machine learning algorithms. There are two parts in this process. The first one is finding the skillsets from Attain employees’ resumes with LDA model. The second one is a classification model utilized to find out the most advisable personnel to the specific job type.
+
+Part 1: The input here is the individual resumes provided from Attain. There are 103 people’s resumes in total and what the LDA model did is classify text in each resume to a particular topic with regarding to word frequency estimators like TF-IDF or Bag of Words. Based on the coherence score which is an estimator used to measure the pairwise word-similarity scores of the words in the topics, the words in those resume text could be concluded in 8 topics which could be the descriptions of specific skillsets in the workforce.
+
+Part 2: With the categories of workforce being discovered in the first part. The next thing we did is implementing a classification model to the given resumes to select the right person for the job. We split the resumes from the Attain to three categories with regarding to their most recent job experience: Project Management, Business Intelligence and Software Development. The model was then trained to recognize resumes with an output of numerical indexes that could be compared to identify the most suitable resume and corresponding person for the job type we need.
+
 
 ### References
 
